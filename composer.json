@@ -1,0 +1,17 @@
+{
+    "name": "usermp/apimanager",
+    "description": "This framework is very light and fast, with it you can implement different microservices according to your needs.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad",
+            "email": "usermp76@gmail.com"
+        }
+    ],
+    "require": {}
+}
